@@ -1,4 +1,6 @@
+.venv
 kaggle.json
-linkedin-AI4ALL-project\\mappings
-linkedin-AI4ALL-project\\companies
-linkedin-AI4ALL-project\\jobs
+companies
+jobs
+mappings
+postings.csv
